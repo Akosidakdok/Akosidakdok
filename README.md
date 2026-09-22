@@ -85,26 +85,7 @@
 </div>
 
 <div style="max-width: 1100px; margin: 28px auto 0; background: rgba(15, 23, 42, 0.92); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);">
-  <h2 style="margin: 0 0 18px; color: #f3f5f7; font-size: 24px;">GitHub Stats</h2>
-
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap; text-align: center; padding: 16px 0 12px;">
-    <div style="min-width: 180px;">
-      <div style="font-size: 52px; font-weight: 700; color: #1e90ff; line-height: 1;">176</div>
-      <div style="margin-top: 8px; color: #dfe6f3; font-size: 16px;">Total Contributions</div>
-      <div style="margin-top: 6px; color: #a8b4c7; font-size: 14px;">Feb 2, 2025 - Present</div>
-    </div>
-
-    <div style="display: flex; align-items: center; justify-content: center; width: 160px; height: 160px; border: 4px solid #1e90ff; border-radius: 50%; position: relative; box-sizing: border-box;">
-      <div style="position: absolute; inset: 16px; border: 2px solid rgba(30,144,255,0.75); border-radius: 50%;"></div>
-      <div style="font-size: 52px; font-weight: 700; color: #1e90ff; line-height: 1;">2</div>
-    </div>
-
-    <div style="min-width: 180px;">
-      <div style="font-size: 52px; font-weight: 700; color: #1e90ff; line-height: 1;">6</div>
-      <div style="margin-top: 8px; color: #dfe6f3; font-size: 16px;">Longest Streak</div>
-      <div style="margin-top: 6px; color: #a8b4c7; font-size: 14px;">Jul 12 - Jul 17</div>
-    </div>
-  </div>
+  
 
   <div align="center" style="margin-top: 10px; color: #f3f5f7; font-size: 34px; font-weight: 600; letter-spacing: -0.5px;">
     Same goal. Better systems. Bigger impact.
