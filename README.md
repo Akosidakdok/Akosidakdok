@@ -1,120 +1,112 @@
-<div align="center">
-  <img src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='220' height='220' viewBox='0 0 220 220'>
-    <defs>
-      <linearGradient id='g' x1='0' x2='1' y1='0' y2='1'>
-        <stop offset='0%' stop-color='#0f172a'/>
-        <stop offset='100%' stop-color='#0b1220'/>
-      </linearGradient>
-    </defs>
-    <rect width='220' height='220' rx='110' fill='url(#g)'/>
-    <text x='110' y='128' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='90' font-weight='700' fill='white'>CB</text>
-  </svg>" width="220" height="220" alt="CB avatar" />
+<div align="center" style="padding: 30px 0 10px;">
+  <div style="width: 220px; height: 220px; border-radius: 50%; background: linear-gradient(180deg, #0f172a 0%, #0b1220 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto; box-shadow: inset 0 0 0 1px rgba(255,255,255,0.05);">
+    <span style="font-size: 86px; font-weight: 700; color: #f3f5f7; letter-spacing: -4px;">CB</span>
+  </div>
 </div>
 
-<div align="center">
-  <h1>Christian James D. Baldonado</h1>
-  <h3>Full-Stack Developer • IT Student</h3>
+<div align="center" style="margin-top: 18px; margin-bottom: 16px;">
+  <h1 style="margin: 0; font-size: 46px; font-weight: 700; color: #f3f5f7;">Christian James D. Baldonado</h1>
+  <h3 style="margin: 10px 0 0; font-weight: 500; color: #c7d2fe; font-size: 18px;">Full-Stack Developer • IT Student</h3>
 </div>
 
 <p align="center">
-  <a href="https://baldonadoportfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/Akosidakdok" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://baldonadoportfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Akosidakdok" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-## About Me
+<div style="max-width: 1100px; margin: 26px auto 0; background: rgba(15, 23, 42, 0.92); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);">
+  <h2 style="margin: 0 0 18px; color: #f3f5f7; font-size: 24px;">About Me</h2>
+  <p style="margin: 0; color: #dfe6f3; font-size: 17px; line-height: 1.7;">
+    I'm an IT student and aspiring full-stack developer who enjoys turning ideas into functional, user-friendly systems.
+    I work across frontend development, backend APIs, databases, cloud platforms, networking, and system design.
+    I also enjoy exploring AI-assisted development tools and applying them to real-world projects.
+  </p>
+  <p style="margin-top: 18px; margin-bottom: 0; color: #e2e8f0; font-size: 17px;"><strong>Build. Learn. Improve.</strong></p>
+</div>
 
-I'm an IT student and aspiring full-stack developer who enjoys turning ideas into functional, user-friendly systems.
+<div style="max-width: 1100px; margin: 28px auto 0; background: rgba(15, 23, 42, 0.92); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);">
+  <h2 style="margin: 0 0 18px; color: #f3f5f7; font-size: 24px;">Current Focus</h2>
+  <ul style="margin: 0; padding-left: 22px; color: #dfe6f3; font-size: 17px; line-height: 1.9;">
+    <li>🚀 Finishing and improving projects such as PAIS 2.0, P-IDTMS, Feasify, and ALERTO PH</li>
+    <li>🧠 Learning more advanced backend and cloud technologies</li>
+    <li>🛠️ Building real-world features that solve practical problems</li>
+    <li>🗄️ Strengthening database management and system architecture</li>
+    <li>🌐 Improving full-stack development and API integration</li>
+    <li>📚 Preparing for future development opportunities</li>
+  </ul>
+</div>
 
-I work across frontend development, backend APIs, databases, cloud platforms, networking, and system design. I also enjoy exploring AI-assisted development tools and applying them to real-world projects.
+<div style="max-width: 1100px; margin: 28px auto 0; background: rgba(15, 23, 42, 0.92); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);">
+  <h2 style="margin: 0 0 18px; color: #f3f5f7; font-size: 24px;">Tech Stack</h2>
 
-> Build. Learn. Improve.
+  <h3 style="margin: 14px 0 10px; color: #e2e8f0; font-size: 20px;">Frontend & UI/UX</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,html,css,figma,vite" alt="Frontend tech" />
+  </p>
 
-## Current Focus
+  <h3 style="margin: 18px 0 10px; color: #e2e8f0; font-size: 20px;">Backend & Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php" alt="Backend and languages" />
+  </p>
 
-- 🚀 Finishing and improving existing projects such as PAIS 2.0, P-IDTMS, Feasify, and ALERTO PH
-- 🧠 Learning more advanced backend and cloud technologies
-- 🛠️ Building real-world features that solve practical problems
-- 🗄️ Strengthening database management and system architecture
-- 🌐 Improving full-stack development and API integration
-- 📚 Preparing for future development opportunities
+  <h3 style="margin: 18px 0 10px; color: #e2e8f0; font-size: 20px;">Database & Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,vercel" alt="Database and cloud" />
+  </p>
 
-## Tech Stack
+  <h3 style="margin: 18px 0 10px; color: #e2e8f0; font-size: 20px;">DevOps & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm" alt="DevOps and tools" />
+  </p>
+</div>
 
-### Frontend & UI/UX
+<div style="max-width: 1100px; margin: 28px auto 0; background: rgba(15, 23, 42, 0.92); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);">
+  <h2 style="margin: 0 0 18px; color: #f3f5f7; font-size: 24px;">Featured Projects</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,html,css,figma,vite" alt="Frontend" />
-</p>
+  <div style="display: grid; gap: 16px;">
+    <div>
+      <h3 style="margin: 0 0 6px; color: #f1f5f9; font-size: 22px;">PAIS 2.0</h3>
+      <p style="margin: 0; color: #dfe6f3; line-height: 1.6;">A personnel and assignment information system for managing records, orders, awards, training, leaves, and documents.</p>
+    </div>
+    <div>
+      <h3 style="margin: 0 0 6px; color: #f1f5f9; font-size: 22px;">P-IDTMS</h3>
+      <p style="margin: 0; color: #dfe6f3; line-height: 1.6;">An internship attendance and monitoring system with face recognition, QR attendance, profiles, and performance tracking.</p>
+    </div>
+    <div>
+      <h3 style="margin: 0 0 6px; color: #f1f5f9; font-size: 22px;">Feasify</h3>
+      <p style="margin: 0; color: #dfe6f3; line-height: 1.6;">A business and project feasibility platform for planning and evaluating company and project viability.</p>
+    </div>
+    <div>
+      <h3 style="margin: 0 0 6px; color: #f1f5f9; font-size: 22px;">ALERTO PH</h3>
+      <p style="margin: 0; color: #dfe6f3; line-height: 1.6;">A community flood monitoring app that combines weather data and real-time local reports for route and hazard awareness.</p>
+    </div>
+  </div>
+</div>
 
-### Backend & Languages
+<div style="max-width: 1100px; margin: 28px auto 0; background: rgba(15, 23, 42, 0.92); border: 1px solid rgba(255,255,255,0.08); border-radius: 14px; padding: 18px 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.18);">
+  <h2 style="margin: 0 0 18px; color: #f3f5f7; font-size: 24px;">GitHub Stats</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php" alt="Backend and Languages" />
-</p>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; flex-wrap: wrap; text-align: center; padding: 16px 0 12px;">
+    <div style="min-width: 180px;">
+      <div style="font-size: 52px; font-weight: 700; color: #1e90ff; line-height: 1;">176</div>
+      <div style="margin-top: 8px; color: #dfe6f3; font-size: 16px;">Total Contributions</div>
+      <div style="margin-top: 6px; color: #a8b4c7; font-size: 14px;">Feb 2, 2025 - Present</div>
+    </div>
 
-### Database & Cloud
+    <div style="display: flex; align-items: center; justify-content: center; width: 160px; height: 160px; border: 4px solid #1e90ff; border-radius: 50%; position: relative; box-sizing: border-box;">
+      <div style="position: absolute; inset: 16px; border: 2px solid rgba(30,144,255,0.75); border-radius: 50%;"></div>
+      <div style="font-size: 52px; font-weight: 700; color: #1e90ff; line-height: 1;">2</div>
+    </div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,vercel" alt="Database and Cloud" />
-</p>
+    <div style="min-width: 180px;">
+      <div style="font-size: 52px; font-weight: 700; color: #1e90ff; line-height: 1;">6</div>
+      <div style="margin-top: 8px; color: #dfe6f3; font-size: 16px;">Longest Streak</div>
+      <div style="margin-top: 6px; color: #a8b4c7; font-size: 14px;">Jul 12 - Jul 17</div>
+    </div>
+  </div>
 
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm" alt="Tools" />
-</p>
-
-## Featured Projects
-
-### PAIS 2.0
-Personnel and Assignment Information System
-
-A personnel management system designed to handle personnel records, assignments, orders, awards, education, training, promotions, leave records, and related documents.
-
-### P-IDTMS
-PNP-ITMS Internship Attendance Management System
-
-An internship attendance and monitoring system featuring attendance tracking, face recognition, QR-based attendance, profiles, and internship performance monitoring.
-
-### Feasify
-Business and Project Feasibility Platform
-
-A platform designed to support business and project feasibility planning, including company information, financial tools, project management, and business-name checking.
-
-### ALERTO PH
-Community Flood Monitoring System
-
-A location-based flood monitoring application that combines official weather information with community reports to provide real-time flood and route information.
-
-## Development Interests
-
-- Full-Stack Development
-- System Design
-- Database Management
-- REST API Development
-- Cloud & Deployment
-- Networking & Security
-- AI-Assisted Development
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akosidakdok&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akosidakdok&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akosidakdok&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<div align="center">
-  <h3>Same goal. Better systems. Bigger impact.</h3>
+  <div align="center" style="margin-top: 10px; color: #f3f5f7; font-size: 34px; font-weight: 600; letter-spacing: -0.5px;">
+    Same goal. Better systems. Bigger impact.
+  </div>
 </div>
