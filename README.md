@@ -1,6 +1,6 @@
 <div align="center" style="padding: 30px 0 10px;">
   <div style="width: 220px; height: 220px; border-radius: 50%; background: linear-gradient(180deg, #0f172a 0%, #0b1220 100%); display: flex; align-items: center; justify-content: center; margin: 0 auto; box-shadow: inset 0 0 0 1px rgba(255,255,255,0.05);">
-    <span style="font-size: 86px; font-weight: 700; color: #f3f5f7; letter-spacing: -4px;">CB</span>
+    
   </div>
 </div>
 
